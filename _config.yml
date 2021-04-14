@@ -1,3 +1,66 @@
+# Site/SEO settings
+email: nicolaasvandijk@gmail.com
+baseurl: ""
+permalink: /:year/:month/:day/:title/
+google_analytics: 
+
 name: Nicolaas van Dijk
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+title: Nicolaas van Dijk
+# description: >
+  # Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+url: http://www.nicolaasvandijk.com
+twitter_username: nmvandijk
+default_img: /assets/images/seo.jpg
+social:
+  - name: twitter
+    url: https://twitter.com/nmvandijk
+  - name: instagram
+    url: https://www.instagram.com/nvd.pt/
+  - name: linkedin
+    url: https://www.linkedin.com/in/nick-van-dijk-42b71541/
+  # - name: github
+    #url: https://github.com/samesies
+#  - name: codepen
+ #   url: https://codepen.io/thomasvaeth/
+
+# Contact settings
+#contact_img: /assets/images/placeholder-28.jpg
+#formcarry: https://formcarry.com/s/HkIo0nMb7
+
+# Disqus settings
+# disqus: test-apkdzgmqhj
+
+# MailChimp settings
+#mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
+#mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+
+# Author settings
+author:
+  - name: Nicolaas van Dijk
+    bio: Nick is a physical therapist in the Chicago area. 
+    url: http://www.nicolaasvandijk.com
+
+# Pagination settings
+pagination:
+  enabled: true
+  debug: false
+  per_page: 12
+  permalink: '/page/:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    layouts: 
+      - 'tag.html'
+    title: 'Nicolaas van Dijk'
+    permalink: '/tag/:tag'
+    slugify:
+      mode: raw
+      cased: true
