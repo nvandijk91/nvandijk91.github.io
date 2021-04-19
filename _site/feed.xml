@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicolaas van Dijk</title>
+    <description>Nick is a physical therapist in Chicago.
+</description>
+    <link>http://www.nicolaasvandijk.com</link>
+    <atom:link href="http://www.nicolaasvandijk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 19 Apr 2021 11:11:42 -0500</pubDate>
+    <lastBuildDate>Mon, 19 Apr 2021 11:11:42 -0500</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>COVID-19 Effect on NBA Players</title>
+        <description>&lt;p&gt;Here is a tracker of how NBA players have performed after testing positive for COVID-19. There is evidence that COVID-19 may have long lasting effects. This may include high-level sports performance. It should be noted that there are likely many confounding factors to players’ performance, including living in a “bubble” and 4 months of deconditioning.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1o9zmzxplPcqUsA5FPoUZeBoWKhEHXVimyICS0WQ0Cfc/edit#gid=121375637&quot;&gt;Tracker&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Aug 2020 00:00:00 -0500</pubDate>
+        <link>http://www.nicolaasvandijk.com/2020/08/04/COVID/</link>
+        <guid isPermaLink="true">http://www.nicolaasvandijk.com/2020/08/04/COVID/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Programming Uncertainty and Self Doubt</title>
+        <description>&lt;p&gt;My Instagram feed is filled with posts from strength coaches. Everyday, these coaches post new exercises and workout plans. Some accounts offer their content as something to consider. Others promote a silver bullet that addresses exactly what you’ve been missing. Depending on your mindset, these types of posts can be toxic. They can cause self-doubt and anxiety: “Shouldn’t I follow the advice of an expert? But how can I fit this into my current programming? How can I fit the advice from hundreds of posts into my programing?”&lt;/p&gt;
+
+&lt;p&gt;The comparison between yourself and the perfection in the post makes them difficult to ignore. Even the experienced athlete may be gullible - the reward is so great that it’s worth trying. However, these accounts may post multiple times a day, and the constant scrutiny of your programming can be exhausting. Exposure to new methods is a key to self-improvement, but there must be a way to manage the breadth of the available information. Reevaluating the general concepts of programming (periodization) may be a part of the solution.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is Periodization?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the most simple terms, periodization can be thought of as the strategic planning of future workouts. The planning is usually not an issue, but the rigidity of the plan can be. Sometimes programs are planned days or weeks in advance without room for adjustments. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Week 1 - 80% 1 RM 5x5 Squat&lt;/li&gt;
+  &lt;li&gt;Week 2 - 85% 1 RM 5x5 Squat&lt;/li&gt;
+  &lt;li&gt;Week 3 - 95% 1 RM 5x5 Squat&lt;/li&gt;
+  &lt;li&gt;Week 4 - 60% 1 RM 5x5 Squat&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This plan can work, but doesn’t allow the athlete to provide feedback. It seems that a better approach would be to incorporate emergent information into the plan as it becomes available (fatigue status, nutritional state, etc.).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Homeostasis vs. Allostasis&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The predominant periodization theory is centered around homeostasis, which states that the body tries to maintain a steady-state. A specific stimulus will elicit a specific response. Homeostasis assumes a high level of precision and predictability, and any deviation from the expected response must have a detectable cause. This type of thinking leads to the analogy of the human body as a car. A car is a fine-tuned machine. Any change made to the car will have a measurable response. Logically it makes senses that a car and human body could operate in the same way, but research has shown that individuals respond differently to the same stimuli, unlike a car. The body is a living thing and the aggregation of its processes may not be as predictable.&lt;/p&gt;
+
+&lt;p&gt;A contrary theory to homeostasis is allostasis. Instead of the certainty of the steady-state, allostasis describes a more a variable system. The body tries to anticipate its current and future needs by employing a number of neurological, biological, and immunological processes. The interplay between these processes means that a specific stimulus may elicit a different response depending on the individual. Someone may be emotionally stressed, genetically predisposed to certain adaptations , or even immunologically comprised, which can all impact the response to training. This is not to say that the effects of training are completely unpredictable, but allows for more flexibility to adjust workouts.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Programming2.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Above are factors that influence training from John Kiely’s 2017 article &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/29189930&quot;&gt;Periodization Theory: Confronting an Inconvenient Truth.&lt;/a&gt; Though these do not need to be examined for each athlete, coaches can consider these when evaluating an athletes response to training.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Programming Implications&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sports science research often considers the group average as the effect of a specific exercise; however, the individual responses are important too. The &lt;a href=&quot;http://jap.physiology.org/content/90/5/1770&quot;&gt;Heritage Family Study&lt;/a&gt; considered the effects of endurance training on VO2 max. The average increase in VO2 max was 19%, while individual responses ranged from 0% to &amp;gt;50%. While the average increase of 19% is exciting, we also have to keep in mind that individuals respond differently and training can be tailored to the individual to some degree.&lt;/p&gt;
+
+&lt;p&gt;So how can we make sense of traditional training methods and individuality? Creating a precise training program for each individual can be inefficient, and there is no guarantee of its success in the context of: 8 reps of a certain exercise is best for Athlete A while 6 reps is best for Athlete B (more individuality is appropriate in a 1-on-1 setting vs a team setting though). However, traditional training programs may be rigid and lack athlete feedback. One approach, especially for novices, is to begin with the a traditional program (e.g. Starting Strength 5x5 for strength training) and then adjust as needed. If the athlete is feeling too fatigued, the volume/intensity could be reduced. If the athlete is not making gains, the volume/intensity could be increased.&lt;/p&gt;
+
+&lt;p&gt;There are multiple variables to consider such as exercise selection, sets, reps, weight, time between sets, and rating of perceived exertion during each set. While experience can help coaches decide how to manipulate these variables, it is not unreasonable for coaches to rely on trial and error within reasonable limits. Coaches may have to be comfortable with the uncertainty and help their athletes understand the process.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coaching Implications&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;At any level, an athlete may be seeking the optimal program for their body. They may constantly evaluate what they are doing and compare to online “experts” who advocate for many “best” exercises (“the 10 best exercises to build a bigger back”). While this information may be useful for someone who does not have much variety, the phrasing of the post may also give athletes anxiety. The following problems may arise: 1) the are an numerous posts about the best exercises and it is impossible for an athlete to fit all of these in during the week and 2) if the current exercises in the athlete’s program are not included on the “best” list, why is the athlete bothering with them. This can begin a vicious cycle of self-doubt for the athlete.&lt;/p&gt;
+
+&lt;p&gt;To combat this, coaches should prioritize conversations about these issues with their athletes. Reframing the athlete’s perceptions about the training process can be helpful. The athlete should understand that everyone is different. Responses to training are not as predictable as some may imply. There is no clear “best” exercise for anyone. The coach can present the current program as a base to work from and encourage the athlete to provide feedback and adjust as needed. There should be a process in place to gain this feedback, one that allows for open communication between coach and athlete and empowers the athlete to take ownership of his or her program. Without the proper support, the uncertainty around training can be demoralizing. When athletes better understand the training process, it can lead to more compassion towards themselves and reduce stress and comparisons to others.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 01 Aug 2020 00:00:00 -0500</pubDate>
+        <link>http://www.nicolaasvandijk.com/2020/08/01/Programming/</link>
+        <guid isPermaLink="true">http://www.nicolaasvandijk.com/2020/08/01/Programming/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Diagnosis Probabilities</title>
+        <description>&lt;p&gt;As a student, it can be hard to understand how tests affect the base probabilities of various diagnoses. This spreadsheet puts pretest probabilities and LRs together. This spreadsheet can serve as a benchmark for spine and lower body MSK conditions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Yl_QYIJDvQV4EFl7rPYtXt1EYsF7gWT_8xbpHy8SAHc/edit#gid=0&quot;&gt;Google Sheets&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 25 Jul 2020 00:00:00 -0500</pubDate>
+        <link>http://www.nicolaasvandijk.com/2020/07/25/Diagnosis/</link>
+        <guid isPermaLink="true">http://www.nicolaasvandijk.com/2020/07/25/Diagnosis/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Evaluation of the ACWR</title>
+        <description>&lt;p&gt;Research around non-contact injuries has become increasingly popular. And for good reason. It seems that every few weeks, a high profile athlete suffers a devastating knee injury. As the athlete begins to change direction, she falls to the ground holding her knee, untouched by surrounding defenders. Medical staff rush on the field, while those in the stands have already diagnosed the ACL tear.&lt;/p&gt;
+
+&lt;p&gt;These non-contact injuries (ACL tears, hamstring strains, etc.) often leave athletes sidelined for significant periods of time, so clinicians have focused on risk factors and prevention strategies. These include analyzing foot strike patterns, femur lengths, sleep habits, and even surface “hardness”. One prominent theory has considered training workloads. If coaches regulate training workloads in a certain way, can they reduce these injuries? Specifically, the theory states that chronic training workloads are needed to build an athlete’s base, and acute workloads should not greatly exceed the chronic base. In order to quantify this concept, researchers have proposed the acute:chronic workload ratio (ACWR).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is the ACWR?&lt;/strong&gt;*&lt;/p&gt;
+
+&lt;p&gt;Simply, the ACWR is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;weekly workload (past 7 days) / weekly workload (past 28 days)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Also, workloads are not strictly defined. Coaches can choose the most relevant EXTERNAL workload for their sport (e.g. # of meters run or # of pitches), while INTERNAL workloads are consistently defined as the rating of perceived exertion (scale of 1-10 with 10 as maximum) multiplied by the minutes of the training session. Both internal and external workloads are assumed to influence injury risk similarly.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For example, soccer coaches can define external workloads as the total distance covered. If the athlete runs 12 miles in the past 7 days and averaged 10 miles/week over the past 28 days, his ACWR would be 1.2 .&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Based on this ratio, researchers have proposed a “sweet spot” (ACWR: 0.8 - 1.3) and “danger zone” (ACWR &amp;gt; 1.5). If the ACWR falls in the “danger zone:, the athlete is at an increased risk for non-contact injuries. If the ACWR is lower, the athlete is at a reduced risk.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ACWR1.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The ACWR framework follows the idea of progressive overload (SAID principle). The athlete will improve if she experiences a greater stimulus than accustomed to. But can we recommend a “one size fits all” metric for training load? There is an enormous amount of variation between athletes (genetics, diet, sleep, injury history) which affects injury risk. Also, is the data accurate enough? Measuring the total distance covered in practices/games does not include information on intensity of the distances covered and ignores other types of training (e.g. strength training). Though the simplicity of the ACWR is very attractive, there needs to be strong evidence to support its use.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Timeline of ACWR Research&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;An editorial by Dr. Tim Gabbett in 2016 introduced the ACWR framework for practical use (the crux of the editorial is the graph from above, which was initially published in a Clinical Analysis by Blanch and Gabbett a few months before).&lt;/p&gt;
+
+&lt;p&gt;The editorial encouraged coaches to implement this metric: “To minimise injury risk, practitioners should aim to maintain the acute:chronic workload ratio within a range of approximately 0.8–1.3.” Since its publication, the editorial has been cited over 60 times, including by the International Olympic Committee. Again, we would expect vast amount of research to support such an endorsement. However, the 2016 editorial was limited to the analysis of only two published studies (cricket and rugby) and one unpublished study (Australian rules football):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2016: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/26758673&quot;&gt;Editorial by Gabbett&lt;/a&gt; (preceded by a &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/26701923&quot;&gt;Clinical Analysis by Blanch and Gabbett&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;2015: &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/26511006/&quot;&gt;Rugby paper by Hulin et al.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2014: &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/23962877&quot;&gt;Cricket paper by Hulin et al.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;???: Australian rules football&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Given the limited amount of research at the time, we would expect that the results of this research was quite strong for the editorial to make such bold claims.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Evaluation of Cricket and Rugby Studies&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The cricket and rugby studies were retrospective: both considered a data set of training loads and injuries. The cricket study considered 28 fast bowlers over a 6 year period, and the rugby study focused on 53 athletes (no specified position) over 2 years. Researchers then used statistical techniques to look for meaningful relationships. Again, their hypothesis is that ACWRs much greater than 1 put athletes at an increased risk of injury.&lt;/p&gt;
+
+&lt;p&gt;Our evaluation can begin with the design of each study. Obviously, the external workloads differ due to the nature of each sport (balls bowled vs. meters covered). Interestingly, only the cricket study presented internal workloads (this could have been due to lack of data availability in the rugby study, but no reason was given). Finally, a more technical distinction between the studies is the categorization of the ACWR buckets. Since the samples sizes were small, it is difficult to evaluate a continuous variable such as ACWR. The solution is to group certain ACWRs into buckets. However, the buckets were not the same between studies (e.g. the cricket paper uses an ACWR bucket of 1.00-1.49 while the rugby study used a bucket of 1.03-1.37).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ACWR2.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Though the study designs differ, we would still expect to see similar results between them (that greater ACWR lead to greater injury risk). However, when combining the data, it is difficult to see this relationship:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ACWR3.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The results of the cricket paper support the hypothesis, but the ACWR-injury risk correlation is not seen as clearly in the rugby study. Though the conflicting evidence did not invalidate the theory, it reflected the need for more research. Instead, the 2016 Editorial was published, and unfortunately, further research has not proven a significant link between ACWR and injury risk. The ACWR may have experienced a path dependence effect: the ease of use behind the ACWR made it attractive and allowed coaches/sports scientists to excuse some inconsistencies in the original research.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Now What?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With regard to training load, coaches may have to continue to operate in a gray area. The idea of progressive overload is still valid, but coaches may need to rely on their experience rather than ACWR to moderate loads. Coaches can address sport-specific issues with proper prehab protocols (such as nordic hamstring curls for soccer players). Finally, proper &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/26553492&quot;&gt;diet&lt;/a&gt; and &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/28287684&quot;&gt;sleep&lt;/a&gt; hygiene are important to remain healthy and reduce injury risk.&lt;/p&gt;
+
+&lt;p&gt;One last note is about the trade-off between maximizing performance and reducing injury risk. Depending on their level, athletes can train at either end of this spectrum to achieve their goals (high school athletes likely want to prioritize reducing injury while elite athletes may take a riskier approach).&lt;/p&gt;
+
+&lt;p&gt;For a much more thorough analysis this topic, watch &lt;a href=&quot;https://www.youtube.com/watch?v=mW-0C0I2mqM&quot;&gt;Dr. Franco Impellizzeri’s talk at the SportFisio Conference.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Videos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/p/B245ZfMnEot/&quot;&gt;Intro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/p/B27ckfAn5cu/&quot;&gt;Example&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/p/B29-Y4lnrak/&quot;&gt;Evaluation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/p/B3AfnzVn3po/&quot;&gt;Implications&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Mon, 25 May 2020 00:00:00 -0500</pubDate>
+        <link>http://www.nicolaasvandijk.com/2020/05/25/ACWR/</link>
+        <guid isPermaLink="true">http://www.nicolaasvandijk.com/2020/05/25/ACWR/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CSM 2020</title>
+        <description>&lt;p&gt;As a second year student at the University of Illinois at Chicago, it’s tradition to attend the Combined Sections Meeting. After our final class on Wednesday, two thirds of my class headed to Denver, excited for research and the outdoors.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Day 1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After an early wake up call Thursday morning, I kicked off the conference at a few sports sessions, including one identifying the neural regions associated with kinesiophobia post injury (thalamus and corticospinal tracts). I then made my way to the exhibit hall and tried out a body weight support system. The vendor strapped me into a harness that supported 35% of my weight. I felt light on my feet when walking, but wondered how the system would react to a fall. I was told to avoid any balance strategies and plummet toward the ground. The system quickly recognized what was happening and gently lowered me to safety.&lt;/p&gt;
+
+&lt;p&gt;The final session of the day discussed patellar and Achilles tendinopathy, so popular that I watched from the overflow room. Tendons adapt well to increasing load, but current Achillies tendinopathy protocols mainly include body weight exercises. Dr. Tyler Cuddleford wondered how much therapists can load those with tendinopathies. He showed that patients responded well to eccentric calf raises on a leg press machine with over 300 pounds! Dr. Rich Willy then took us through a case of a volleyball player with patellar tendinopathy. Rest is contraindicated for tendinopathies, so athletes need to keep up with the demands of their sport while rehabbing. Along with strengthening exercises, the player adjusted his biomechanics to reduce pain but maintain similar jumping heights.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Day 2&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Day two began with a talk about return to sport (RTS) for lower extremity injuries. Dr. Mike Reiman summarized the current state of RTS, arguing there is room for improvement (potentially only 55% of athletes return to sport post ACL surgery). Dr. Dan Lorenz then focused on the specifics of RTS testing. He led the audience in multiple refrains of “what we permit, we promote.” For certain tests, rather than accepting an 85% or 90% limb symmetry, therapists should target much closer to 100% and be more strict when assessing quality of movement (no knee wobble, smooth and stable landing).&lt;/p&gt;
+
+&lt;p&gt;The poster session followed, where the UIC community supported my fellow classmates and their literature review of the McKenzie Method for low back pain patients.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Day 3&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Day 3 began with a talk on sleep and aging. The intersection of sleep, aging, and morbidities correlates with less healthy patients, and therapists are encouraged to screen for sleep disorders. Dr. Cathy Ciolek described how she works with skilled nursing facilities to improve sleep quality of the residents. She minimizes sleep disturbances by increasing time between patient safety checks as appropriate, using headlamps with red light, oiling squeaky cart wheels, and moving the location of the clock in/clock out machine away from patient rooms. Dr. Catherine Siengsukon then provided tips for all patients: maintaining a regular sleep schedule, avoiding excessive napping, and creating a relaxing bedtime routine. More specifics are described in her 2017 article in PTJ.&lt;/p&gt;
+
+&lt;p&gt;I scheduled my return flight for Saturday evening, so my final talk of the conference was the afternoon session on hamstring strain injuries. Dr. Bryan Heiderscheidt cautioned that almost everyone in the room was at an increased risk for injury (risk increases at age 23). Though high speed running provides a protective effect, the absence of daily gym class and recess in adult lives may explain a pulled hamstring from a work softball outing.&lt;/p&gt;
+
+&lt;p&gt;Attending CSM proved to be a valuable experience. The 18,000 therapists in attendance inspire students and highlight the incredible opportunities in the field. Specifically, I decided to become more involved and join the sports section. I’m excited to return next year in Orlando!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ipta.org/blogpost/1842626/2020-Combined-Section-Meeting-Reflections?tag=CSM+2020%3B+Student+Support+Funding&quot;&gt;Originally posted on the IPTA blog&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Feb 2020 00:00:00 -0600</pubDate>
+        <link>http://www.nicolaasvandijk.com/2020/02/24/CSM/</link>
+        <guid isPermaLink="true">http://www.nicolaasvandijk.com/2020/02/24/CSM/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Statistics - Selecting the Population</title>
+        <description>&lt;p&gt;When reading research, I sometimes feel unsure about assessing the data. I want to consider prior knowledge along with this new information to inform my decision making. Due to practical reasons, probabilities are defined for different “populations”, but it is not always clear which “population” is most appropriate. If I was asked to predict the sex of the next person I saw, I would start with the US “population”. Based on &lt;a href=&quot;https://www.census.gov/prod/cen2010/briefs/c2010br-03.pdf&quot;&gt;census data&lt;/a&gt;, there is about a 50% chance that person is female. This may be the best information available, so that probability and “population” seem reasonable.  But what if better information was out there. What if this question was asked prior to entering my graduate school class room where the female:male ratio is 70:30. Then I would consider a different “population”, or “sub-population” and the likelihood would be 70%.&lt;/p&gt;
+
+&lt;p&gt;Sometimes it is not as clear which “population” is most appropriate. Consider an example of a diagnostic test for a rare disease (1 in 1000 have the disease, or 0.1%), where the accuracy of the test is 99%. If someone receives a positive test result, does that mean there is a 99% chance they have the disease?&lt;/p&gt;
+
+&lt;p&gt;Accuracy of these tests are often defined as:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;the number of people with the disease who test positive VS the number of people with the disease who test negative&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Since the disease is rare, even a positive test should be seen with some skepticism. The accuracy does not account for the underlying incidence of the rare disease and a different “population” should be used. The correct “population” is everyone with a positive test, not just the “population” of those with a positive test AND who have the disease. In this situation, considering the incidence of the disease (0.1%) can help make more realistic inferences about the meaning of a positive test.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Dec 2019 00:00:00 -0600</pubDate>
+        <link>http://www.nicolaasvandijk.com/2019/12/19/Statistics/</link>
+        <guid isPermaLink="true">http://www.nicolaasvandijk.com/2019/12/19/Statistics/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Recreational Runners and Cadence</title>
+        <description>&lt;p&gt;Recreational runners may be interested in changing their running form as a way to run faster/longer or reduce injury risk. A simple way to do this is by adjusting the runner’s cadence (steps/min).  Rather than focusing on specific joint angles and forces, runners can use Spotify or a metronome app to cue the correct step pattern, striking the ground with each beat. [4] Some cadence recommendations are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;optimal performance: &lt;a href=&quot;https://us.humankinetics.com/products/daniels-running-formula-4th-edition&quot;&gt;180-200 steps/min&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;optimal metabolic efficiency: &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/29059198/&quot;&gt;168-180 steps/min&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;reduced incidence of shin pain: [&amp;gt;173 steps]/min(https://pubmed.ncbi.nlm.nih.gov/26818150/)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;These are general recommendations and do not account for speed. It is best to measure cadence at a controlled speed and make any adjustments at this controlled speed.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So how can a recreational runner evaluate their goals and incorporate changes in cadence? It may be best to consider other variables before adjusting cadence:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Metabolic Efficiency:&lt;/strong&gt; If a runner is feeling fatigued after 1 mile, the runner may just need more practice at longer distances. The runner’s metabolic capacity is low, and increasing the demand on this system will cause the greatest changes. Adjusting cadence in this situation will likely not make much of a difference.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Musculoskeletal Injury:&lt;/strong&gt; For many common running injuries, strength training can be beneficial. The body experiences repetitive forces when running, and strong hips and core can help protect the body. Based on the location of the injury, other strengthening exercises may be helpful as well.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Workload Progression:&lt;/strong&gt; Increases in workload may also be an issue. Novice runners may not understand their limits yet, and drastic increases of 4-5 miles per run may be too much. Though everyone is different, it is generally recommend to keep mileage increases at 10% per week or less. The increases can be modified based on how the runner is feeling as well.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cadence:&lt;/strong&gt; After the three variables above are examined, it may make sense to consider running cadence. More research is needed on this topic, but initial studies have shown that runners may benefit from changes in cadence. Since running mechanics are ingrained from childhood, drastic changes may be risky and unsustainable. It is recommended that runners change their cadence by no more than &lt;a href=&quot;https://www.runnersworld.com/training/a20808486/how-to-boost-your-cadence/&quot;&gt;5% at once.&lt;/a&gt; The runner should then evaluate this new cadence over a few weeks to months. If still not meeting their goals, the runner could work with a coach/therapist to receive more support.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As a side note, nutrition and sleep are important factors when evaluating running performance.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 13 Aug 2019 00:00:00 -0500</pubDate>
+        <link>http://www.nicolaasvandijk.com/2019/08/13/Cadence/</link>
+        <guid isPermaLink="true">http://www.nicolaasvandijk.com/2019/08/13/Cadence/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ankle Sprains</title>
+        <description>&lt;p&gt;I created the following videos as a guest contributor for the Athlete Engineers.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/p/BvNIG96Fs5_/&quot;&gt;Intro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/p/BvPyB3qFKTh/&quot;&gt;Uneven Jumping&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/p/BvSWuUdFtDa/&quot;&gt;Dribbling&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/p/BvU4QVxluT3/&quot;&gt;Rebounding&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 19 Mar 2019 00:00:00 -0500</pubDate>
+        <link>http://www.nicolaasvandijk.com/2019/03/19/Ankle/</link>
+        <guid isPermaLink="true">http://www.nicolaasvandijk.com/2019/03/19/Ankle/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
