@@ -1,0 +1,12 @@
+---
+layout: post
+title: "COVID-19 Effect on NBA Players"
+date: 2020-08-04
+description:
+image: /assets/images/COVID.jpg
+author: Nicolaas van Dijk
+tags:
+---
+Here is a tracker of how NBA players have performed after testing positive for COVID-19. There is evidence that COVID-19 may have long lasting effects. This may include high-level sports performance. It should be noted that there are likely many confounding factors to players’ performance, including living in a “bubble” and 4 months of deconditioning.
+
+[Tracker](https://docs.google.com/spreadsheets/d/1o9zmzxplPcqUsA5FPoUZeBoWKhEHXVimyICS0WQ0Cfc/edit#gid=121375637)
